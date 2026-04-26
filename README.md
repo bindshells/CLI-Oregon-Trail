@@ -2,42 +2,41 @@ I made this game over a few months while sitting in a holding cell at work. It t
 
 
 
-
-What would this game be without a 25% chance to die of dysentary?
-
 Completed Features
 -------------------
-Karma system that affects the ending & how NPC's treat you
+	Karma system that affects the ending & how NPC's treat you
 
-Water tablets so you don't die from spicy water
+	Water tablets so you don't die from spicy water
 
-Randomized illness to random characters, one check per turn, maybe give the illness like, a 2-5% chance of occuring idk
+	Randomized illness to random characters, one check per turn, maybe give the illness like, a 2-5% chance of occuring idk
 
-Add medicine to the shop to cure 'Sick' and 'Gravely Injured' status conditions
+	Add medicine to the shop to cure 'Sick' and 'Gravely Injured' status conditions
 
-Scaled probability of events based on Difficulty variable. 
+	Scaled probability of events based on Difficulty variable. 
 
-Nightmare mode is now an actual nightmare, but not for you.
+	Nightmare mode is now an actual nightmare, but not for you.
 
-Starving to death should probably have consequences other than a text warning
+	Starving to death should probably have consequences other than a text warning
 
-Inflated prices based on trader's remoteness. Increases difficulty in mid-late game.
+	Inflated prices based on trader's remoteness. Increases difficulty in mid-late game.
 
-Sick banner art on startup
+	Sick banner art on startup
 
-Party config in shop, lets you adjust rations for food. Smaller rations = more sickness, and the inverse
+	Party config in shop, lets you adjust rations for food. Smaller rations = more sickness, and the inverse
 
-Removed ability to fight bandits with 0 ammo. Cannot fisticuffs the armed robbers. :(
+	Removed ability to fight bandits with 0 ammo. Cannot fisticuffs the armed robbers. :(
 
 Features to implement!
 -----------------------------
-Add more story encounter variety, there's so many bandits the trail feels like an active warzone filled with rivers
+	Add more story encounter variety, there's so many bandits the trail feels like an active warzone filled with rivers
 
-Wagon wheels are just chilling right now, maybe if one broke on the trail..
+	Wagon wheels are just chilling right now, maybe if one broke on the trail..
 
-Fixed bug where non-existent ammo was falling off the wagon, but what should happen instead? A tragedy event was triggered, can't just let the player off the hook because no ammo
+	Fixed bug where non-existent ammo was falling off the wagon, but what should happen instead? A tragedy event was triggered, can't just let the player off the hook because no ammo
 
 ==============================================================================================================================
+
+What would this game be without a 25% chance to die of dysentary?
 
 Welcome to the user manual!
 Beginning
