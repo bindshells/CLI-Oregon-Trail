@@ -8,15 +8,25 @@ What would this game be without a 25% chance to die of dysentary?
 Completed Features
 -------------------
 Karma system that affects the ending & how NPC's treat you
+
 Water tablets so you don't die from spicy water
+
 Randomized illness to random characters, one check per turn, maybe give the illness like, a 2-5% chance of occuring idk
+
 Add medicine to the shop to cure 'Sick' and 'Gravely Injured' status conditions
+
 Scaled probability of events based on Difficulty variable. 
+
 Nightmare mode is now an actual nightmare, but not for you.
+
 Starving to death should probably have consequences other than a text warning
+
 Inflated prices based on trader's remoteness. Increases difficulty in mid-late game.
+
 Sick banner art on startup
+
 Party config in shop, lets you adjust rations for food. Smaller rations = more sickness, and the inverse
+
 Removed ability to fight bandits with 0 ammo. Cannot fisticuffs the armed robbers. :(
 
 Features to implement!
