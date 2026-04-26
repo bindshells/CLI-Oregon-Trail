@@ -1,0 +1,23 @@
+
+
+
+Welcome to the user manual!
+Beginning
+-----------------------
+You will start off in the town of Hanover and make your way through eight towns on your quest to Oregon.
+The difficulty determines how hard your trip there will be (ie; The likelyhood of injury, death, sickness, natural disasters, and bandit raids).
+You should buy the bulk of your supply towards the earlier towns, because the more remote the shop is, the more expensive the goods will become. Sawk Trail and Idaho are the most remote trader posts in the game. These outposts will buy goods from you at the same price they sell.
+The earlier you purchase water tablets (A one-time purchased) the better off you'll be.
+
+On the trail
+-------------------------
+Your actions on the trail affect your "Karma", which in turn affects the NPC's attitudes towards you. Shops will stop selling to you if your karma falls low enough.
+Don't let your food go empty for too long, or you'll starve. Always keep ammo on you to hunt food, lest you fall prey to unethical activities to eat on the trail.
+If you're running low on money, fellow travellers low on supplies would be grateful for some and may offer you money in exchange.
+You can adjust the rations your party consumes each day in the shop menu, where 4 food per day is the default. Lowering this value can be done when needed (to get through a difficult part of the game, for example) but is not recommended. The smaller your rations are, the higher chance you have of falling ill on the trail.
+
+Injury/Sickness/Death
+-------------------------
+Letting your party starve for too long will results in sickness, and eventually death.
+If you are already injured and become injured twice from risky activities, you will become "Gravely Injured". Once a character is gravely injured, you will be prompted to give them medicine, if you have any. Medicine will restore them to the "Healthy" status.
+Leaving a gravely injured party member with their injuries is risky, because a third injury or sickness has a high chance of instant death.
