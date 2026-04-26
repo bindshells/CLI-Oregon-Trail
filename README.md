@@ -1,5 +1,33 @@
+I made this game over a few months while sitting in a holding cell at work. It took me two weeks to have a fully working Oregon Trail, so the rest is just me slowly losing my mind while waiting. 
 
 
+
+
+What would this game be without a 25% chance to die of dysentary?
+
+Completed Features
+-------------------
+Karma system that affects the ending & how NPC's treat you
+Water tablets so you don't die from spicy water
+Randomized illness to random characters, one check per turn, maybe give the illness like, a 2-5% chance of occuring idk
+Add medicine to the shop to cure 'Sick' and 'Gravely Injured' status conditions
+Scaled probability of events based on Difficulty variable. 
+Nightmare mode is now an actual nightmare, but not for you.
+Starving to death should probably have consequences other than a text warning
+Inflated prices based on trader's remoteness. Increases difficulty in mid-late game.
+Sick banner art on startup
+Party config in shop, lets you adjust rations for food. Smaller rations = more sickness, and the inverse
+Removed ability to fight bandits with 0 ammo. Cannot fisticuffs the armed robbers. :(
+
+Features to implement!
+-----------------------------
+Add more story encounter variety, there's so many bandits the trail feels like an active warzone filled with rivers
+
+Wagon wheels are just chilling right now, maybe if one broke on the trail..
+
+Fixed bug where non-existent ammo was falling off the wagon, but what should happen instead? A tragedy event was triggered, can't just let the player off the hook because no ammo
+
+==============================================================================================================================
 
 Welcome to the user manual!
 Beginning
@@ -21,3 +49,5 @@ Injury/Sickness/Death
 Letting your party starve for too long will results in sickness, and eventually death.
 If you are already injured and become injured twice from risky activities, you will become "Gravely Injured". Once a character is gravely injured, you will be prompted to give them medicine, if you have any. Medicine will restore them to the "Healthy" status.
 Leaving a gravely injured party member with their injuries is risky, because a third injury or sickness has a high chance of instant death.
+
+
